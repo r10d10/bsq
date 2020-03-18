@@ -2,6 +2,6 @@
 
 **42 Piscine Final Project**
 
-subject - BSQ.pdf
+Subject - BSQ.pdf
 
 Work in team of 2 people, done for 2 days.
