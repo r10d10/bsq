@@ -24,8 +24,10 @@ clean: fclean
 
 re: fclean all
 
-$(NAME): $(OBJS)
+makeo: $(OBJS)
 
-.PHONY = fclean clean all re
+$(NAME): makeo
+
+.PHONY = fclean clean all re makeo
 
 
